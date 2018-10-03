@@ -1,0 +1,32 @@
+1. MAROON 5 - THE BEST BAND EVER
+If the number is a multiple of 5 , then print the number itself else print number plus 5.
+
+2. F.R.I.E.N.D.S - How You Doin' ?
+Simple If else as you can see from problem and output and solution.
+
+3. Misa Misa
+ 	You need to first sort the the given numbers then print the minimum, median, maximum 	of the sorted array.
+ 	if n is odd then median is the middle element. If n is even then there will be two medians then print the average of medians.4
+
+4. PUBG - Player Unknowns Battle Ground
+Sort based on priority as given in the solution. Easy from clues. The Order is given in solution file.
+
+5. Save Pied Piper
+ 	Given n,k
+ 	You need to print n number. ith number is ((i^k) - ((i-1)^k))*(n-k)
+ 	Where 1<=i<=n
+
+6. AVENGERS INFINITY WAR - (BRING ME THANOS)!!
+	Take in two strings , Find the length of the longest repeating substring in both and print double of it because it is given as Thanos is
+    known to play double games. After that print accordingly which is greater the statement.
+
+7. Game in Sriland
+ 	You need to divide the array into two parts. Subtract the first half and add the second half and then multiply both the results and print it.
+ 	For odd n, middle element will be in both parts.
+
+8. MISSION IMPOSSIBLE 6 - FALLOUT
+	maximum Bitonic Subarray Sum - the stakes at risk is increasing and their chances of saving the world are decreasing (Clue for Bitonic)
+	maximum lives- to maximum sum 
+
+9. Jaadoo vs Rohit
+ 	Given a string you need to find all the distinct substring, sort them in lexographical order then concatenate it and print the character at kth index.
